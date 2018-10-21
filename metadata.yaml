@@ -1,5 +1,5 @@
 _repo: Diary-of-a-Pedestrian-in-Cashmere-and-Thibet_3639
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'DS'
 - !lcsh 'Jammu and Kashmir (India) -- Description and travel'
 - !lcsh 'Knight, W. H. (William Henry) -- Travel -- India -- Jammu and Kashmir'
+- GITenberg
 title: Diary of a Pedestrian in Cashmere and Thibet
 url: http://www.gutenberg.org/ebooks/3639
